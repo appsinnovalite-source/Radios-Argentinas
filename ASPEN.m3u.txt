@@ -1,3 +1,0 @@
-#EXTM3U
-#EXTINF:-1,ASPEN
-https://27373.live.streamtheworld.com/ASPEN.mp3
